@@ -61,23 +61,26 @@
 
     –––––––––––––––––––––––––––––
 
-    IDEA 4: BIG BIRD (K)
+
+    IDEA 4: Spectral Analysis Visualizer (K)
     
     Description:
-    IS YELLOW
-   
+    A spectral analysis tool to visualize the variations in solar spectral data captured by HMI and SDO. By plotting spectral profiles over time, users can identify characteristic signatures associated with sunspots, flares, and other         solar events.
+    
     Interactivity:
-    RATHER NICE
+    One will be able to select specific wavelengths or spectral bands to display, allowing for comparative analysis and identification of correlations between different spectral features and solar activities. 
 
     –––––––––––––––––––––––––––––
 
-    IDEA 5: OSTRICH (K)
+    IDEA 5:Solar Cycle Sunspot Number Progression (K)
     
     Description:
-    DOES NOT FLY
+    Linear graph of the number of sunspots over time. Will require to count sunspot from HMI images over time, combining dates, aggregating them, and finally putting them on a linear graph which still conmtaints relevant information 
+    from each point. Will allow for th eobservation of patterns over time.
    
     Interactivity:
-    AGRESSIVE! WOULD NOT RECOMMEND INTERACTION.
+    Left-clicking on the data and holding while dragging will activate a zoom window, allowing users to define a specific time range for closer inspection. The plot will then adjust to display the selected zoomed-in data. Hovering your 
+    cursor over the plots will dynamically display the relevant data values corresponding to the date indicated by the cursor.
 
 `SHEET 2 & 3 & 4: FURTHER EXPLORATION`
 
