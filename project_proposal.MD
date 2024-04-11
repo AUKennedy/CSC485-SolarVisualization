@@ -135,23 +135,30 @@
 
     –––––––––––––––––––––––––––––
 
-    4. THE DODO (K)
+    4.  Solar Cycle Sunspot Number Progression (K)
 
     Layout:
-    Was rather small. Had a strange–ish beak.
+    Spectral profiles over time will be plotted acquired from variations in solar spectral data captured 
+    by HMI and SDO. A control panel will allow the user to see different years of activity
 
     Details:
-    Often refered to by normal people as Raphus cucullatus.
+    Users can interact with the graph by left-clicking and dragging to define specific time ranges for     
+    closer inspection. Hovering over the plot will display relevant data values corresponding to the date 
+    indicated by the cursor.
 
     Interactions:
-    It prefered not to interact with people, as it was generally hunted by them.
-    It had a very lovely disposition and being hunted rather than socialized with made the species rather sad.
+    Similae to details.
 
     Benefits:
-    Its small wings offered little to no benifits. Its evolution was generally regarded as a poor choice.
+    Provides a straightforward representation of sunspot activity over time.
+    Enhances interpretation comparative analysis.
+    Enables users to identify cyclical patterns and fluctuations in sunspot numbers.
     
     Challenges:
-    Not flying was one. Extinction was the largest.
+    Analyzing large volumes of spectral data may require significant computational 
+    resources.
+    Dependence on HMI images for sunspot counts may limit the availability of historical data.
+    The graph may lack detailed information about other solar phenomena.
 
 `SHEET 5: REALIZATION`
 
